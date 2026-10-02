@@ -15,8 +15,6 @@ python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 python main.py
-Автор
-Студент группы Б1123-38.03.05ба, ФИО Иващенко Максим Андреевич.
 
 ## Пример бизнес-задачи
 
@@ -32,3 +30,6 @@ python main.py
 - Себестоимость (Cost)
 - Рентабельность (Profitability)
 - Средний чек (Average Check)
+
+## Автор
+Студент группы Б1123-38.03.05ба, ФИО Иващенко Максим Андреевич.
